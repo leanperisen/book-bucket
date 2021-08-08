@@ -1,0 +1,15 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    a {
+        margin: 15px;
+        color: #fff;
+        text-decoration: none;
+    }
+}
